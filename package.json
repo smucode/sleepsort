@@ -1,0 +1,10 @@
+{
+  "name": "sleepsort",
+  "version": "0.0.1",
+  "author": "stig.murberg@gmail.com",
+  "description": "quite ineffective sorting algorithm",
+  "dependencies": {},
+  "scripts": {
+    "test": "mocha --compilers coffee:coffee-script"
+  }
+}
